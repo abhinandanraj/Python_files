@@ -27,4 +27,4 @@ If you liked working on this project, please share this project as much as you c
 ## Note:
 
 1. Don't Create Pull Request to update "readme.md" File.
-2. Upload or Create File in "Self Practice Problems" Folder.
+2. Upload or Create File in "Practice Problems" Folder.
